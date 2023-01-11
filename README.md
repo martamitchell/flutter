@@ -3,5 +3,5 @@ Learning flutter
 
 Screenshots of apps in this repo:
 
+![image](https://user-images.githubusercontent.com/46302098/211889849-f6559223-00fc-4c1c-9d18-6002223dcdcd.png)
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-11 at 13 34 20](https://user-images.githubusercontent.com/46302098/211889707-9fc3875d-3dac-45f8-803b-2f5d1a0b9057.png)
